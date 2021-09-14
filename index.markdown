@@ -4,11 +4,12 @@
 
 layout: home
 title: "My ceramics work"
-permalink: /ceramics-website
+permalink: /
 ---
 
 # new title page
 
+<base href="https://zorbulator.github.io/ceramics-website/" target="_blank">
 <ul>
     {% for post in site.posts %}
         <li>
