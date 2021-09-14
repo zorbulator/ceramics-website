@@ -4,7 +4,7 @@
 
 layout: home
 title: "My ceramics work"
-permalink: /
+permalink: /ceramics-website
 ---
 
 # new title page
