@@ -20,8 +20,8 @@
 
 title: Ceramics website
 email: zorbulator@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ceramics-website" # the subpath of your site, e.g. /blog
+url: "httpsL//zorbulator.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: zorbulator
 
 # Build settings
