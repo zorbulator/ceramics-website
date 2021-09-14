@@ -9,11 +9,10 @@ permalink: /
 
 # new title page
 
-<base href="https://zorbulator.github.io/ceramics-website/" target="_blank">
 <ul>
     {% for post in site.posts %}
         <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
 </ul>
