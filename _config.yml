@@ -30,7 +30,7 @@ theme: jekyll-theme-cayman
 # 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-theme-cayman
 
 # Exclude from processing.
 # The following items will not be processed, by default.
