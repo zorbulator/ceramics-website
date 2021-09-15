@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "First post: work ethic qualities"
 ---
 
