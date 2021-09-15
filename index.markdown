@@ -7,7 +7,7 @@ title: "My ceramics work"
 permalink: /
 ---
 
-# new title page
+# Posts
 
 <ul>
     {% for post in site.posts %}
