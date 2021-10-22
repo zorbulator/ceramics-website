@@ -7,4 +7,4 @@ title: "Sketchbook / other"
 
 Drawing of a giraffe which we did once at the beginning of class:
 
-![giraffe drawing](images/giraffe.jpg)
+![giraffe drawing](/images/giraffe.jpg)
