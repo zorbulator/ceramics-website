@@ -16,3 +16,13 @@ Here's a container I made by cutting the sides out of a slab with a template I m
 A little table I made when I wasn't making the template project
 
 ![Table](/ceramics-website/images/template.jpg)
+
+# Monster
+
+I made this monster out of a pinch pot but forgot to take a picture after it was fired
+
+![Monster](/ceramics-website/images/monster_prefire.jpg)
+
+# Snake mug
+
+I made a mug that looks like a coiled snake but I don't have a picture of it yet
