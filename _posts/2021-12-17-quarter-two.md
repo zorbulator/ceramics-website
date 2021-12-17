@@ -15,7 +15,7 @@ Here's a container I made by cutting the sides out of a slab with a template I m
 
 A little table I made when I wasn't making the template project
 
-![Table](/ceramics-website/images/template.jpg)
+![Table](/ceramics-website/images/table.jpg)
 
 # Monster
 
