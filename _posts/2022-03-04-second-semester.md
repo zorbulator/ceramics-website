@@ -26,3 +26,15 @@ A heart-shaped box for Valentine's Day:
 A "minimalist garden gnome" which somehow didn't fall apart:
 
 ![Gnome](/ceramics-website/images/gnome.jpg)
+
+# Two Spring Gifts
+
+Two gifts I made:
+
+A plate to charge a phone or something else on with a hole for the cable:
+
+![Phone plate](/ceramics-website/images/phone-plate.jpg)
+
+A soap dish with holes for water to drain out:
+
+![Soap dish](/ceramics-website/images/soapdish2.jpg)
