@@ -33,7 +33,7 @@ Two gifts I made:
 
 A plate to charge a phone or something else on with a hole for the cable:
 
-![Phone plate](/ceramics-website/images/phone-plate.jpg)
+![Phone plate](/ceramics-website/images/phone_plate.jpg)
 
 A soap dish with holes for water to drain out:
 
