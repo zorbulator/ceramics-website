@@ -3,6 +3,17 @@ layout: post
 title: "Second semester projects"
 ---
 
+# Tiles
+
+My final project, some tiles based on ginkgo trees!
+![Tiles](/ceramics-website/images/tiles.jpg)
+
+# Underwater sculpture
+
+A sculpture depicting underwater life:
+
+![Underwater sculpture](/ceramics-website/images/underwater.jpg)
+
 # Sgraffito
 
 My platter made using sgraffito to add a pattern I like in black and white:
